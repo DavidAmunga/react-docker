@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Binomial Nomenclature
         </a>
       </header>
     </div>
